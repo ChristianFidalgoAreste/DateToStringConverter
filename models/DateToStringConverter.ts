@@ -1,4 +1,3 @@
-import { Handler } from "../abstracts/Handler";
 import { dateStringified } from "../types/dateStringified";
 import { HandlerFactory } from "./handlers/HandlerFactory";
 
